@@ -1,0 +1,1 @@
+java -jar /Users/shayne/berkeleyparser/BerkeleyParser-1.5.jar  -gr ~/flat.model
