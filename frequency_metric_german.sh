@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 ./frequency_metric_german.py
+python3 script/frequency_metric_german.py

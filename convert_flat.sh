@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 convert_flat.py
+python3 script/convert_flat.py
